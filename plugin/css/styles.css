@@ -33,8 +33,14 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
     color: #888 !important;
 }
 
-body, .header-bar, .PlannerHeader, .ui-tabs-anchor, .quiz-submission, .ig-header, .accessible-toggler,  .ic-Input, .ic-DashboardCard__box__header {
+body, .header-bar, .PlannerHeader, .ui-tabs-anchor, .quiz-submission, .ig-header, .accessible-toggler,  .ic-Input, .ic-DashboardCard__box__header, .Grouping-styles__hero {
     background: #1f1f1f !important;
+    color: #C7CDD1 !important;
+}
+
+.Grouping-styles__title {
+    background: none !important;
+    background: #333 !important;
     color: #C7CDD1 !important;
 }
 
