@@ -10,6 +10,7 @@
   --ic-brand-global-nav-ic-icon-svg-fill--active: #fff;
   --ic-brand-font-color-dark-lightened-15: #C7CDD1;
   --eHiXd-linkColor: #fff;
+  color-scheme: dark;
 }
 
 .ic-DashboardCard, .ic-DashboardCard__header_content, .header,
@@ -50,7 +51,7 @@ body, .header-bar, .ui-tabs-anchor, .quiz-submission, .ig-header, .accessible-to
     color: #fff !important;
 }
 
-.Button, .btn {
+.Button, .btn{
     background-color: #282828 !important;
     color: #C7CDD1 !important;
 }
@@ -68,6 +69,11 @@ a {
 
 .ic-sidebar-logo {
     visibility: hidden;
+}
+
+.ic-sticky-frame {
+    background-color: #282828 !important;
+    scrollbar-color: #282828 !important;
 }
 
 .Day-styles__root {
